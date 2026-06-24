@@ -90,11 +90,8 @@ The dataset contains approximately **25,000 shipment records** with information 
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot below after uploading it to the repository.
+><img width="1193" height="673" alt="dashboard" src="https://github.com/user-attachments/assets/bd0554de-36ae-46d3-b79f-130edfa7abfc" />
 
-```markdown
-(Images/dashboard.png)
-```
 
 ---
 
