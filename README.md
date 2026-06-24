@@ -112,6 +112,3 @@ The dataset contains approximately **25,000 shipment records** with information 
 
 **Narendra Chintapalli**
 
-B.Tech Computer Science (2023)
-
-Aspiring Data Analyst | SQL | Power BI | Python
